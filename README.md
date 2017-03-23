@@ -1,7 +1,7 @@
 # RGames
 Here are some games I wrote in R just for personal interest. I believe most of the games you find here will be the games you have seen or played elsewhere. Truth be told, I don't invent games. I just take this project as an excercise both for my R programming and English writing.
 
-**R** is an open source programme for statistician. Some one says that whenever a statistic paper is finished, a corresponding R package is developped. But R can do more than that. I once read a blog about how to write a 2048 game in R and that was very impressive for me. Recently I use R to control [ffmpeg](https://ffmpeg.org/) to convert large amount of video and/or audio streams. 
+[**R**](https://www.r-project.org/) is a free software environment for statistical computing and graphics. Some one says that whenever a statistic paper is finished, a corresponding R package is developped. But R can do more than that. I once read [a blog about how to write a 2048 game in R](http://blog.fens.me/r-game-2048/) and that was very impressive for me. Recently I use R to control [ffmpeg](https://ffmpeg.org/) to convert large amount of video and/or audio streams. 
 
 You can see this project as a simple demonstration of what R can do in entertainment. You can also see it as an sparking point to attract/impress someone about what R can do. For me, this project is for fun, enjoyment, and a self-test.
 
