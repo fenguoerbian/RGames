@@ -19,4 +19,7 @@ The up-coming game will be the retro tic tac tou. I did write one in C when I le
 
 Currently there's no design for an AI programe in this game, because originally I only write the 2-player part of the game. But I'll consider to add a simple AI in it so that one can play the game.
 
+## Minesweeper
+Lin Shuai wants me to write this game in R. She thinks this can be a real chanllege to my GUI developing ability. Also she hopes the game would have a mode in which she can win with only one click of the mouse.
+
 ## More to come, I hope.
