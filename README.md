@@ -12,7 +12,7 @@ The GuessNumber game is inspired by my classmate Moye Li. It's a guess-number ga
 
 You can set and play the game all by yourself. And I also provide a very rudimentary AI.
 
-My girlfriend Lin Shuai is the one and only beta tester. Although she thought this game is stupid, she made some valid suggestions. For instance, she demands a graphical interface which is currently out of my reach. Later I will consider adding this feature.
+My girlfriend Lin Shuai is the one and only beta tester. Although she thinks this game is stupid, she offered some valid suggestions. For instance, she demands a graphical interface which is currently out of my reach. Later I will consider adding this feature.
 
 ## Tic Tac Tou
 The up-coming game will be the retro tic tac tou. I did write one in C when I learnt that language according to the classic textbook *Beginning C: From Novice to Professional*. I suppose it wouldn't be very difficult to write an R version of it. 
