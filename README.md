@@ -14,6 +14,9 @@ You can set and play the game all by yourself. And I also provide a very rudimen
 
 My girlfriend Lin Shuai is the one and only beta tester. Although she thinks this game is stupid, she offered some valid suggestions. For instance, she demands a graphical interface which is currently out of my reach. Later I will consider adding this feature.
 
+## MosaicPicture ##
+Technically this is not a game. But I do think this is a piece of interesting code and another demostration of what *R* can do. This code can be used to generate a pixelated figure using material figures in the ./pool/ sub-folder. I provided the origin and resulting of the **R** logo figure.
+
 ## Tic Tac Tou
 The up-coming game will be the retro tic tac tou. I did write one in C when I learnt that language according to the classic textbook *Beginning C: From Novice to Professional*. I suppose it wouldn't be very difficult to write an R version of it. 
 
