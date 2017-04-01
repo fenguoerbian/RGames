@@ -5,7 +5,7 @@ Here are some games I wrote in R just for personal interest. I believe most of t
 
 You can see this project as a simple demonstration of what R can do in entertainment. You can also see it as a sparking point to attract/impress someone about what R can do. To me, this project is for fun, enjoyment, and a self-test.
 
-Currently there is only 1 game. I'm very lazy but I do hope to add some more interesting games written in R.
+Currently there is only 1 game. I'm very lazy but I do hope to add some more interesting games written in R. Below is a brief introduction of all the games I have written or plan to write. You can find more detailed information in the [wiki of this project](https://github.com/fenguoerbian/RGames/wiki).
 
 ## GuessNumber
 The GuessNumber game is inspired by my classmate Moye Li. It's a guess-number game which somehow like the guess-word game 'hang-man'. But in my game there isn't any drawing of a man being hanged and you can keep on guessing until you get it right.
