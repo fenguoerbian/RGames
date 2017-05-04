@@ -8,10 +8,10 @@ ConvertToGray <- function(RGBdata){
   #
   # Args:
   #   RGBdata: numeric matrix/array of a picture. 
-  #            length(dim(RGBdata))= 2 means it;s a gray picture itself and  
+  #            length(dim(RGBdata))= 2 means it's a gray picture itself and  
   #            will be returned without any configuration.
   #            length(dim(RGBdata) = 3 means it's a rgb picture and the 3rd
-  #            dimension stores R(red) G(grey) B(blue) data of the picture.
+  #            dimension stores R(red) G(green) B(blue) data of the picture.
   #
   # Returens: 
   #   res: a matrix of a gray picture. Result of each pixel is mean of R, G
